@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ikon orisinal: balon kata putih dengan tiga garis teks -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,32 L78,32 Q84,32 84,38 L84,64 Q84,70 78,70 L52,70 L40,80 L42,70 L30,70 Q24,70 24,64 L24,38 Q24,32 30,32 Z" />
+    <path
+        android:fillColor="#E8453C"
+        android:pathData="M33,41 L75,41 L75,45 L33,45 Z M33,49 L69,49 L69,53 L33,53 Z M33,57 L60,57 L60,61 L33,61 Z" />
+</vector>
